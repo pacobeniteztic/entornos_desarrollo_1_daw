@@ -15,6 +15,6 @@ Cada test tendrá un comentario encima del mismo, donde debéis indicar lo sigui
 El nombre del método también es importante. Por ello, cuanto más claro quede tanto el comentario anterior como el nombre de dicho método, la nota será más alta. En el código os pongo un ejemplo de método de test.
 
 
-La entrega en Classroom será la clase de test que debe seguir la siguiente nomenclatura "EncuentraLosErrores<InicialesNombreYApellidos>Test"
+La entrega en Classroom será la clase de test que debe seguir la siguiente nomenclatura "EncuentraLosErrores*InicialesNombreYApellidos*Test"
 
 Por ejemplo: Francisco Manuel Benítez Chico sería: FMBC. Por ello, el nombre de la clase es EncuentraLosErroresFMBCTest
